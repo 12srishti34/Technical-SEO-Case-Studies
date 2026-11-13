@@ -28,13 +28,16 @@ The following results were recorded during local Lighthouse testing.
 ### Before Optimization
 
 ![Before Optimization](Screenshots/first1.png)
-![Before Optimization](Screenshots/first2.png)
+
+![Before Optimization - Lighthouse Insights](Screenshots/first2.png)
 
 **Performance Score: 54**
 
 ### After Optimization
-![After Optimization](Screenshots/second1.png)
-![After Optimization](Screenshots/second2.png)
+
+![After Optimization - Performance Score 98](Screenshots/second2.png)
+
+![After Optimization - Lighthouse Insights](Screenshots/second1.png)
 
 **Performance Score: 98**
 
