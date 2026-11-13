@@ -33,7 +33,6 @@ The following results were recorded during local Lighthouse testing.
 **Performance Score: 54**
 
 ### After Optimization
-
 ![After Optimization](Screenshots/second1.png)
 ![After Optimization](Screenshots/second2.png)
 
