@@ -36,12 +36,14 @@ This case study documents technical SEO and website performance optimization wor
 ## Before & After Evidence
 
 ### Before Optimization
-![Before Optimization](screenshots/before.png)
+![Before Optimization](Screenshots/before1.png)
+![Before Optimization](Screenshots/before2.png)
 
 **Performance Score: 35**
 
 ### After Optimization
-![After Optimization](screenshots/after.png)
+![After Optimization](Screenshots/after1.png)
+![After Optimization](Screenshots/after2.png)
 
 **Performance Score: 84**
 
